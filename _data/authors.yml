@@ -1,16 +1,9 @@
-# Sample Authors
-# Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
+Petr Joachim:
+  name: Petr Joachim
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@petrjoachim"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/petrjoachim
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
